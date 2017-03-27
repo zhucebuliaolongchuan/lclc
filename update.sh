@@ -1,5 +1,5 @@
 #!/bin/sh
-time_spot = 'date + "%d:%H:%M"'
+time_spot = date + "%d:%H:%M"
 git remote remove lclc
 git remote add lclc https://github.com/zhucebuliaolongchuan/lclc.git
 git pull lclc master --allow-unrelated-histories
