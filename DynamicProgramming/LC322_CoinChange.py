@@ -9,11 +9,9 @@ class Solution(object):
         :type amount: int
         :rtype: int
         """
-		# Initialize the dp array
         dp = [sys.maxint for _ in range(amount + 1)]
         dp[0] = 0
         for i in range(1, amount + 1):
-			# Calculate the min number of coins that to change the current number
             for coin in coins:
                 if i - coin >= 0:
                     dp[i] = min(dp[i], dp[i - coin] + 1)
