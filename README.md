@@ -52,7 +52,7 @@ Language: Python
 |  No.  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |454|4Sum2|[4Sum2](https://github.com/zhucebuliaolongchuan/lclc/blob/master/HashTable/LC454_4Sum2.py)|O(n^2)|O(n^2)|Medium|Hash Table|1|
-
+|554|Brick Wall|[Brick Wall](https://github.com/zhucebuliaolongchuan/lclc/blob/master/HashTable/LC554_BrickWall.py)|O(n^2)|O(n^2)|Medium|Hash Table|1|
 
 
 #### Math
