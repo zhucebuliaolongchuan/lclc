@@ -36,7 +36,7 @@ Language: Python
 #### DataStructureDesign
 |  No.  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-
+|288|Unique Word Abbreviation|[UniqueWordAbbreviation](https://github.com/zhucebuliaolongchuan/lclc/blob/master/DataStructureDesign/LC288_UniqueWordAbbreviation.py)|O(1)|O(n)|Design/Hash Table|1|
 
 #### DFS
 |  No.  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
