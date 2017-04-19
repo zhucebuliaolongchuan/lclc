@@ -58,3 +58,4 @@ Language: Python
 #### Math
 |  No. | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|553|Optimal Division|[Optimal Division](https://github.com/zhucebuliaolongchuan/lclc/blob/master/Math/LC553_OptimalDivision.py)|O(n)|O(n)|Medium|Math/String|1|
